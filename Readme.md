@@ -1,1 +1,1 @@
-this folder contais images.
+this folder contais images for wiki.
